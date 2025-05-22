@@ -14,7 +14,7 @@ pipeline {
         }
         stage('third-stage') {
             steps {
-                echo 'Hello sreenu'
+                echo 'Hello '
             }
         }
     }
