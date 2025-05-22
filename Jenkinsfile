@@ -12,5 +12,10 @@ pipeline {
                 echo 'Hello sreenu how are you da'
             }
         }
+        stage('third-stage') {
+            steps {
+                echo 'Hello sreenu how are you da'
+            }
+        }
     }
 }
