@@ -14,7 +14,7 @@ pipeline {
         }
         stage('last-stage fgh') {
             steps {
-                echo 'Hello 45 '
+                echo 'Hello 45 gfgh '
             }
         }
     }
